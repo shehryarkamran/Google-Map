@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Google Map", "Google Map\", "{96400886-FC16-4A25-9283-8C7CC85DA924}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49822"
+		Debug.AspNetCompiler.PhysicalPath = "Google Map\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49822\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49822"
+		Release.AspNetCompiler.PhysicalPath = "Google Map\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49822\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49822"
+		SlnRelativePath = "Google Map\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96400886-FC16-4A25-9283-8C7CC85DA924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96400886-FC16-4A25-9283-8C7CC85DA924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {034FF010-7F71-4E68-9D07-2D98BF2B3D4D}
+	EndGlobalSection
+EndGlobal
